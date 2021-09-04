@@ -3,3 +3,4 @@
 This repo contains the solution of leetcode study plan for data structure 1.
 
 [DAY 1](/DAY1)
+[DAY 2](/DAY2)
