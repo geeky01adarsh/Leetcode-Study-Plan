@@ -33,8 +33,8 @@ int main()
         }
         v.push_back(temp);
     }
-    int target;
-    cin >> target;
-    cout<<searchMatrix(v,target)<<endl;
+    int tar;
+    cin >> tar;
+    cout<<searchMatrix(v,tar)<<endl;
     return 0;
 }
